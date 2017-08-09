@@ -11,7 +11,7 @@ Test build triggers:
 ![Test Build Triggers](images/test-build-triggers.png)
 
 Required checks:
-![Required Checks](images/required-status-screenshot.png)
+![Required Checks](images/required-checks-screenshot.png)
 
 All checks passed:
 ![All Checks Passed](images/all-checks-passed.png)
