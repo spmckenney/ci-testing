@@ -1,2 +1,3 @@
 # ci-testing
-Miscellaneous testing (CI tests, Jenkins integration, etc)
+
+This project is for miscellaneous testing (CI tests, Jenkins integration, etc).
