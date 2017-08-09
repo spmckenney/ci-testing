@@ -7,5 +7,11 @@ Currently testing build+test jenkins jobs
 Set GitHub project URL:
 ![Set GitHub project](images/set-github-project.png)
 
-Required Status:
-![Set GitHub project](images/required-status-screenshot.png)
+Test build triggers:
+![Test Build Triggers](images/test-build-triggers.png)
+
+Required checks:
+![Required Checks](images/required-status-screenshot.png)
+
+All checks passed:
+![All Checks Passed](images/all-checks-passed.png)
