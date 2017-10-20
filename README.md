@@ -1,6 +1,6 @@
 # ci-testing
 
-This project is for miscellaneous testing (CI tests, Jenkins integration, etc).
+This project is for continuous integration testing (CI tests, Jenkins integration, etc).
 
 Currently testing build+test Jenkins jobs
 
